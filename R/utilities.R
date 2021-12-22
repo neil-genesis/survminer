@@ -146,7 +146,7 @@ GeomConfint_old <- ggplot2::ggproto('GeomConfint_old', ggplot2::GeomRibbon,
 #   - n.event: the cumulative number of events that have occurred since the last time listed until time t+0
 #   - n.censor: number of censored subjects
 #   - strata_size: number of subject in the strata
-.get_timepoints_survsummary <- function(fit, data, times, decimal.place = 0)
+.get_timepoints_survsummary <- function(fit, data, times, decimal.place = 1)
 {
   survsummary <- summary(fit, times = times, extend = TRUE)
 

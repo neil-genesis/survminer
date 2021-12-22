@@ -1,13 +1,5 @@
-[![R build
-status](https://github.com/kassambara/survminer/workflows/R-CMD-check/badge.svg)](https://github.com/kassambara/survminer/actions)
-[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/survminer)](https://cran.r-project.org/package=survminer)
-[![Downloads](https://cranlogs.r-pkg.org/badges/survminer)](https://cran.r-project.org/package=survminer)
-[![Total
-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/survminer?color=orange)](https://cran.r-project.org/package=survminer)
 
-<br/>
-
--   [survminer: Survival Analysis and
+-   [survminer1: Survival Analysis and
     Visualization](#survminer-survival-analysis-and-visualization)
     -   [Installation and loading](#installation-and-loading)
     -   [ggsurvplot: Drawing survival
@@ -27,7 +19,7 @@ Downloads](https://cranlogs.r-pkg.org/badges/grand-total/survminer?color=orange)
             curves](#uber-platinum-premium-customized-survival-curves)
     -   [Blog posts](#blog-posts)
 
-survminer: Survival Analysis and Visualization
+survminer1: Survival Analysis and Visualization
 ==============================================
 
 The **survminer** R package provides functions for facilitating

@@ -51,7 +51,7 @@ reference:
 
 
 navbar:
-  title: "survminer"
+  title: "survminer1"
   left:
   - text: Cheatseet
     href: survminer_cheatsheet.pdf
@@ -63,7 +63,6 @@ navbar:
     href: news/index.html
   right:
     - icon: fa-github
-      href: https://github.com/kassambara/survminer
 
 
 
